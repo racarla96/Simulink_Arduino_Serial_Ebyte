@@ -1,0 +1,7 @@
+slprj/*
+*.asv
+*.bin
+*.elf
+*.autosave
+*.slxc
+*_ert_rtw/*

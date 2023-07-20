@@ -1,1 +1,2 @@
-# Simulink_Arduino_Serial_Ebyte
+# Simulink_Arduino_Serial
+Simulink_Arduino_Serial
